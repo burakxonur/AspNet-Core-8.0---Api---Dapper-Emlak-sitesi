@@ -13,6 +13,29 @@ namespace RealEstate_Dapper_Api.Repositories.CategoryRepositories
 			_context = context;
 		}
 
+		public async void CreateCategory(CreateCategoryDto categoryDto)
+		{
+			string query = "insert into Category (CategoryName,CategoryStatus) values (@categoryName, @categoryStatus)";
+			var paramerters = new DynamicParameters();
+			paramerters.Add("@categoryName", categoryDto.CategoryName);
+			paramerters.Add("@@categoryStatus", true);
+			using(var connection=_context.CreateConnection())
+			{
+				await connection.ExecuteAsync(query, paramerters);
+			}
+		}
+
+		public async void DeleteCategory(int id)
+		{
+			string query = "Delete from Category where CategoryID=@categoryID";
+			var paramerters = new DynamicParameters();
+			paramerters.Add("@categoryID", id);
+			using (var connection=_context.CreateConnection())
+			{
+				await connection.ExecuteAsync(query,paramerters);
+			}
+		}
+
 		public async Task<List<ResultCategoryDto>> GetAllCategoryAsync()
 		{
 			string query = "Select * from Category";
@@ -20,6 +43,19 @@ namespace RealEstate_Dapper_Api.Repositories.CategoryRepositories
 			{
 				var values=await connection.QueryAsync<ResultCategoryDto>(query);
 				return values.ToList();
+			}
+		}
+
+		public async void UpdateCategory(UpdateCategoryDto categoryDto)
+		{
+			string query = "Update Category Set CategoryName=@categoryName,CategoryStatus=@categoryStatus where CategoryID=@categoryID";
+			var paramerters = new DynamicParameters();
+			paramerters.Add("@categoryID", categoryDto.CategoryID);
+			paramerters.Add("@categoryName", categoryDto.CategoryName);
+			paramerters.Add("@categoryStatus", categoryDto.CategoryStatus);
+			using(var connection=_context.CreateConnection())
+			{
+				await connection.ExecuteAsync(query, paramerters);
 			}
 		}
 	}

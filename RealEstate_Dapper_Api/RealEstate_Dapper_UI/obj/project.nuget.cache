@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HqToSpraIvkveDyw2PAGFyZfqABnY1r6cDTigHpqNGjst33RFDNX819ba9CWsunGddsFvf5ljRotvo7TczlCYQ==",
+  "dgSpecHash": "ekNzNC2hJmdneGzIuL719B2aAEgNCUEl+RvXP1bRWmXNejhRFNlBe8O4Eje5eDKRlhgAxBDlPr9tIj1Zgm8ELw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\onurb\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj",
+  "projectFilePath": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\onurb\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\onurb\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

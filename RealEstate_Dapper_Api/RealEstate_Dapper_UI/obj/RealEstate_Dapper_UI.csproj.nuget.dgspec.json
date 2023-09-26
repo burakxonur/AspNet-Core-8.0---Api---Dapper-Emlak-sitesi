@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\onurb\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj": {}
+    "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\onurb\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj": {
+    "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\onurb\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj",
+        "projectUniqueName": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj",
         "projectName": "RealEstate_Dapper_UI",
-        "projectPath": "C:\\Users\\onurb\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj",
+        "projectPath": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj",
         "packagesPath": "C:\\Users\\onurb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\onurb\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\obj\\",
+        "outputPath": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
