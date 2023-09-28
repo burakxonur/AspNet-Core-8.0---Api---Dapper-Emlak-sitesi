@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\onurb\OneDrive\Belgeler\GitHub\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\RealEstate_Dapper_Api\RealEstate_Dapper_UI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,8 +32,40 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/Components/_DefaultFeatureComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRGZWF0dXJlQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/Components/_DefaultHomePageProductList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRIb21lUGFnZVByb2R1Y3RMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/Components/_DefaultProductListExploreCitiesComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRQcm9kdWN0TGlzdEV4cGxvcmVDaXRpZXNDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/Components/_DefaultServicesComponenetPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRTZXJ2aWNlc0NvbXBvbmVuZXRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/Components/_DefaultWhoWeAreComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRXaG9XZUFyZUNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/Components/_HeaderViewComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRlclZpZXdDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/Components/_NavBarViewComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdkJhclZpZXdDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/_DefaultLayaout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EZWZhdWx0TGF5YW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/_MemberLayaout.cshtml]
