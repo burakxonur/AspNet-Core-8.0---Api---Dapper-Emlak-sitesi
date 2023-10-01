@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g+3BNHf1W6FIjVKgRsyc64Ayg1UmJKTJd1Vmnnm1xJk=",
+  "Hash": "pYkhZSvlRkFZQG5FYa4aTw+Y41anhoPz661yDkHx4q8=",
   "Source": "RealEstate_Dapper_UI",
   "BasePath": "_content/RealEstate_Dapper_UI",
   "Mode": "Default",
@@ -4131,12 +4131,12 @@
       "OriginalItemSpec": "wwwroot\\starter\\images\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\5.jpeg",
+      "Identity": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\5.jpg",
       "SourceId": "RealEstate_Dapper_UI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\",
       "BasePath": "_content/RealEstate_Dapper_UI",
-      "RelativePath": "starter/images/5.jpeg",
+      "RelativePath": "starter/images/5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4145,7 +4145,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\starter\\images\\5.jpeg"
+      "OriginalItemSpec": "wwwroot\\starter\\images\\5.jpg"
     },
     {
       "Identity": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\6.jpg",
