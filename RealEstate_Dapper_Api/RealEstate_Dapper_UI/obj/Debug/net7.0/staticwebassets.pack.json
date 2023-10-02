@@ -5,6 +5,70 @@
       "PackagePath": "staticwebassets\\RealEstate_Dapper_UI.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\berlin.jpg",
+      "PackagePath": "staticwebassets\\cityimage\\berlin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\budapest.jpg",
+      "PackagePath": "staticwebassets\\cityimage\\budapest.jpg"
+    },
+    {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\dresden.jpg",
+      "PackagePath": "staticwebassets\\cityimage\\dresden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\istanbul.jpg",
+      "PackagePath": "staticwebassets\\cityimage\\istanbul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\lviv.jpg",
+      "PackagePath": "staticwebassets\\cityimage\\lviv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\lyon.jpg",
+      "PackagePath": "staticwebassets\\cityimage\\lyon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\miami.jpg",
+      "PackagePath": "staticwebassets\\cityimage\\miami.jpg"
+    },
+    {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\montenegro.jpg",
+      "PackagePath": "staticwebassets\\cityimage\\montenegro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\napoli.jpg",
+      "PackagePath": "staticwebassets\\cityimage\\napoli.jpg"
+    },
+    {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\newyork.jpg",
+      "PackagePath": "staticwebassets\\cityimage\\newyork.jpg"
+    },
+    {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\paris.jpeg",
+      "PackagePath": "staticwebassets\\cityimage\\paris.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\rome.jpg",
+      "PackagePath": "staticwebassets\\cityimage\\rome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\sofia.jpg",
+      "PackagePath": "staticwebassets\\cityimage\\sofia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\stok.jpg",
+      "PackagePath": "staticwebassets\\cityimage\\stok.jpg"
+    },
+    {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\viyana.jpg",
+      "PackagePath": "staticwebassets\\cityimage\\viyana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\cityimage\\zurih.jpg",
+      "PackagePath": "staticwebassets\\cityimage\\zurih.jpg"
+    },
+    {
       "Id": "C:\\Users\\onurb\\OneDrive\\Belgeler\\GitHub\\AspNet-Core-8.0---Api---Dapper-Emlak-sitesi\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
