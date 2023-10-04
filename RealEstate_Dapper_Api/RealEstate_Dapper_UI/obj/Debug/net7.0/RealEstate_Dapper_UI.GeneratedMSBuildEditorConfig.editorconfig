@@ -20,8 +20,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Category/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Category/UpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVXBkYXRlQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/onurb/OneDrive/Belgeler/GitHub/AspNet-Core-8.0---Api---Dapper-Emlak-sitesi/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Default/Index.cshtml]
