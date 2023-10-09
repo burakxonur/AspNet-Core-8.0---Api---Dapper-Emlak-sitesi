@@ -3,7 +3,7 @@
 	public class UpdateEmployeeDto
 	{
 		public int EmployeeID { get; set; }
-		public string Name { get; set; }
+		public string EmployeeName { get; set; }
 		public string Title { get; set; }
 		public string Mail { get; set; }
 		public string PhoneNumber { get; set; }
