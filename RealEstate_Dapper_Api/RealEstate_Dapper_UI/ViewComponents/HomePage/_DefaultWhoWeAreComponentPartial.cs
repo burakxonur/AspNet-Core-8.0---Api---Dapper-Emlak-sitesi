@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using RealEstate_Dapper_UI.Dtos.ServiceDto;
 using RealEstate_Dapper_UI.Dtos.WhoWeAreDto;
 
 namespace RealEstate_Dapper_UI.ViewComponents.HomePage
